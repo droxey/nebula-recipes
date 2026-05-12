@@ -29,6 +29,16 @@ This recipe stores the canonical Intake planning set and the default implementat
 - reusable execution guidance
 - a verification checklist for implementation passes
 
+### Daily Heartbeat
+Path: `tasks/daily-heartbeat/TASK.md`
+
+Scans connected apps (GitHub, Gmail, Calendar, Slack) for updates and action items. A 3-step daily workflow that collects, synthesizes, and delivers a status report — designed to run as the first thing every day.
+
+### Weekly Memory Audit
+Path: `tasks/weekly-memory-audit/TASK.md`
+
+Audits all Nebula stored memories for staleness, duplicates, overly verbose values, and orphaned entries. Runs every Monday at 9am ET, sends a concise audit report via email.
+
 ### Testing project scaffolding policy
 Path: `tasks/testing-project-scaffolding-policy/`
 
