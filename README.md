@@ -8,6 +8,7 @@ This repository stores reusable Nebula task recipes, supporting instructions, an
 - `tasks/airbnb-listing-workflows/` - Airbnb listing workflow recipes and supporting docs
 - `tasks/testing-project-scaffolding-policy/` - project scaffolding guidance and related task instructions
 - `tasks/intake-implementation-workflow/` - Intake product implementation recipe and colocated planning docs
+- `tasks/humanize-text/` - AI text detection and humanization recipe
 
 ## Included recipes
 
@@ -38,6 +39,11 @@ Scans connected apps (GitHub, Gmail, Calendar, Slack) for updates and action ite
 Path: `tasks/weekly-memory-audit/TASK.md`
 
 Audits all Nebula stored memories for staleness, duplicates, overly verbose values, and orphaned entries. Runs every Monday at 9am ET, sends a concise audit report via email.
+
+### Humanize Text
+Path: `tasks/humanize-text/TASK.md`
+
+Removes signs of AI-generated writing from text — inflated significance, promotional language, em dash overuse, AI vocabulary, sycophantic tone, and 17 other detectable patterns. Provides a systematic scan-and-rewrite workflow for making text sound natural and human-written.
 
 ### Testing project scaffolding policy
 Path: `tasks/testing-project-scaffolding-policy/`
