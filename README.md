@@ -45,6 +45,11 @@ Path: `tasks/humanize-text/TASK.md`
 
 Removes signs of AI-generated writing from text — inflated significance, promotional language, em dash overuse, AI vocabulary, sycophantic tone, and 17 other detectable patterns. Provides a systematic scan-and-rewrite workflow for making text sound natural and human-written.
 
+### Superwhisper Nebula Command Prompt
+Path: `tasks/superwhisper-nebula-command-prompt/TASK.md`
+
+A compact Superwhisper custom-mode prompt that converts speech into concise Nebula agent instructions, including routing rules, low-content silence behavior, and examples for creating Nebula agents.
+
 ### Testing project scaffolding policy
 Path: `tasks/testing-project-scaffolding-policy/`
 
